@@ -1,0 +1,1 @@
+This project is a Power BI dashboard created during my internship at NullClass as a Data Analyst. The dashboard provides in-depth insights into Twitter data by leveraging advanced data visualization techniques. It helps to analyze key performance metrics, audience engagement trends, and sentiment analysis for effective decision-making.
